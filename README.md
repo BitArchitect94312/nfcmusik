@@ -166,11 +166,6 @@ of which only the first 4 are actually written.
 
 *ToDo*: Fix `rfid.py` to correctly handle 4-byte writes..
 
-## NFC Reader
-
-See [the pi-rc522 page](https://github.com/ondryaso/pi-rc522) for instructions on how to connect the NFC reader to your RasPi.
-The RasPi pinout can be found [here](http://pinout.xyz/).
-
 ## Administration
 
 Copy mp3 files to the RasPi SD Card, adapt `settings.py` to point to the correct `MUSIC_ROOT`
